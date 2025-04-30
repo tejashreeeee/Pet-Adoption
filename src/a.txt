@@ -1,0 +1,8 @@
+local module,core modle third party mpdule
+local module is a moduele which is created loca;;y in our system 
+local module allows you to encapsulate related code within a single file
+making it easily to manage
+functions,object,class,array defines i a local module can be reused in multiple files reducing the code duplications
+local modules created by developers
+it reduces code duplications avoid rewriting the code
+
